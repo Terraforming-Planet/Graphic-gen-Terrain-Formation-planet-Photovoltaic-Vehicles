@@ -429,10 +429,6 @@ Every voice helps improve the project 🌍
 
 </details>
 
- [⚠️ API Status Notice At the moment, I do not have access to the required verification documents on the OpenAI Platform API.  I am actively working on organizing and submitting them, with the goal of completing verification **by January 5**.
-Once verified, the system will be able to generate images using the **Base64 Image Model 1.5**.  
-In the meantime, **DALL·E 3** is available and functioning as an alternative image generation model.]
-
 ### 👤 Research & Author Information
 **ORCID iD:**  
 👉 [View the organization on Orcid](https://orcid.org/0009-0007-0123-0894)
@@ -800,8 +796,13 @@ Mirror & Indirect Light Testing – evaluate mirror reflections and soft bounced
 Texture-Only Refinement Mode – improve materials without altering geometry or scale.
 Prompt Presets – quick generators for excavators, cars, trees, mountains, and terrain.
 Editor-Safe AI Constraints – preserves geometry, pivots, camera, and scene layout.
+★
 <img width="1080" height="2460" alt="20476" src="https://github.com/user-attachments/assets/ab1350c7-91aa-42e1-8897-13d10c8dd6f6" />
+
+★
 <img width="1080" height="2460" alt="20480" src="https://github.com/user-attachments/assets/130510c5-5588-4b10-892f-c851be20d484" />
+
+★
 <img width="1080" height="2460" alt="20484" src="https://github.com/user-attachments/assets/fab3848f-04c3-40c9-89e9-0da9c2562e4a" />
 
 — Sebastian Laskowski Terraforming Planet 
