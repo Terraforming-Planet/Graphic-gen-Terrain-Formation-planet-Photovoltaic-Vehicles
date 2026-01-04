@@ -792,6 +792,18 @@ Please include:
 **The long-term objective is impact — not hype.  
 Let’s build systems that actually matter.**
 
+New Features Added:
+3D Excavator Scene Editor – select, rotate, and manipulate objects in a controlled 3D workspace.
+Photovoltaic Active Skin – full-body solar panel coverage with realistic PBR materials.
+Replace Cube → 3D Object – instantly swap a placeholder cube with an excavator or other generated objects.
+Mirror & Indirect Light Testing – evaluate mirror reflections and soft bounced sunlight.
+Texture-Only Refinement Mode – improve materials without altering geometry or scale.
+Prompt Presets – quick generators for excavators, cars, trees, mountains, and terrain.
+Editor-Safe AI Constraints – preserves geometry, pivots, camera, and scene layout.
+<img width="1080" height="2460" alt="20476" src="https://github.com/user-attachments/assets/ab1350c7-91aa-42e1-8897-13d10c8dd6f6" />
+<img width="1080" height="2460" alt="20480" src="https://github.com/user-attachments/assets/130510c5-5588-4b10-892f-c851be20d484" />
+<img width="1080" height="2460" alt="20484" src="https://github.com/user-attachments/assets/fab3848f-04c3-40c9-89e9-0da9c2562e4a" />
+
 — Sebastian Laskowski Terraforming Planet 
 
 --- 
