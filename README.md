@@ -831,3 +831,501 @@ This approach would allow players to meet in real time, create together, take on
 If you’d like, I can share more detailed guidance in the future on how to connect your game with the Google Genie 3 API to achieve this kind of real-time experience.
 
 Once again, thank you for your time and openness — it’s really clear that your project is alive and evolving in an exciting direction! 🚀
+
+
+
+
+---
+
+🎮 GOOGLE PLAY – STORE DESCRIPTION (Mobile-first)
+
+Title
+
+Create Your World: AI Multiplayer Sandbox
+
+Short Description
+
+Build, explore, and play together in AI-generated 3D worlds. Create anything you imagine — in real time.
+
+Full Description
+
+Create Your World is an AI-powered multiplayer 3D sandbox where creativity comes first.
+Instead of fixed levels, you decide what the world looks like.
+
+Just imagine it — and start building.
+
+Using natural language and intuitive controls, players can generate environments, structures, and objects, then build and explore them together with others online.
+
+
+---
+
+🧱 Build Anything
+
+Construct houses, vehicles, flying machines, and structures from blocks
+
+Use many shapes, sizes, and materials
+
+Physics-based building: what you build must make sense to work
+
+
+
+---
+
+🤖 AI World Generation
+
+Worlds and objects generated from simple prompts
+
+AI adapts environments to player ideas
+
+Infinite replayability — no two worlds are the same
+
+
+
+---
+
+🌍 Multiplayer in Real Time
+
+Meet friends and other players online
+
+Build together in shared 3D spaces
+
+Cooperative challenges and creative tasks
+
+
+
+---
+
+🎯 Learn Through Play
+
+Small missions guide players step by step
+
+Unlock abilities like flying only after building required structures
+
+Skip tasks using earned points — no pressure, no timers
+
+
+
+---
+
+👶 Kid-Friendly & Safe
+
+Calm, non-competitive gameplay
+
+Optional “Zen / Kids Mode”
+
+Designed to support creativity, logic, and imagination
+
+
+
+---
+
+⭐ Pro Mode (Optional)
+
+Advanced AI-generated worlds
+
+Expanded building tools
+
+Real-time multiplayer creation features
+(Pro mode helps support server and AI costs)
+
+
+
+---
+
+Create. Explore. Play Together.
+This is not just a game — it’s a creative world powered by AI.
+
+
+---
+
+🕹️ STEAM – STORE DESCRIPTION (PC / Console Audience)
+
+Title
+
+Create Your World – AI Multiplayer Sandbox
+
+Short Description
+
+A multiplayer 3D sandbox where AI generates worlds from imagination. Build, experiment, and explore together.
+
+
+---
+
+About This Game
+
+Create Your World is a next-generation sandbox experience combining AI world generation, creative construction, and real-time multiplayer.
+
+There are no predefined levels.
+No fixed paths.
+Only imagination.
+
+Players shape worlds together, using AI as a creative assistant rather than a replacement.
+
+
+---
+
+Key Features
+
+🌐 AI-Generated Worlds
+
+Generate terrains, environments, and objects from text prompts
+
+Dynamic worlds that evolve as you interact
+
+Endless creative possibilities
+
+
+🧩 Construction & Engineering
+
+Modular building system with multiple block types
+
+Logical, physics-aware structures
+
+Build machines, gliders, vehicles, and cities
+
+
+👥 Multiplayer Creativity
+
+Shared online spaces
+
+Cooperative building and challenges
+
+Meet, create, and experiment together in real time
+
+
+🎮 Progress Without Pressure
+
+Task-based progression instead of timers
+
+Abilities unlocked through creation, not grinding
+
+Relaxed “Zen Mode” for pure creativity
+
+
+🎓 Educational by Design
+
+Encourages spatial thinking and problem-solving
+
+Supports creativity, logic, and collaboration
+
+Suitable for kids, teens, and adults
+
+
+
+---
+
+Optional Pro Experience
+
+Advanced tools and AI-powered creation modes are available via an optional subscription, supporting ongoing development, AI computation, and multiplayer infrastructure.
+
+
+---
+
+Vision
+
+This is not a typical game.
+It’s a living digital playground, where players don’t consume content — they create it.
+
+AI empowers imagination.
+Multiplayer turns creativity into a shared experience.
+
+---
+
+🗺️ PRODUCT ROADMAP
+
+AI Multiplayer 3D World Creation Platform
+
+
+---
+
+🧩 PHASE 1 — MVP (Foundation / Proof of Fun)
+
+Cel: Udowodnić, że tworzenie + zabawa same w sobie są wciągające.
+
+⏱️ 2–4 miesiące
+
+Core Features
+
+Single-player / Local sandbox
+
+3D world with limited size
+
+Block-based building system:
+
+basic shapes (cube, ramp, cylinder)
+
+rotation, scale, snap-to-grid
+
+
+Simple physics (gravity, collisions)
+
+Camera + character movement
+
+
+AI (Light / Assisted)
+
+Prompt-based environment presets (not full generation yet)
+
+“flat world”
+
+“small island”
+
+“simple terrain”
+
+
+AI suggestions (UI hints, not generation)
+
+
+Gameplay & UX
+
+Task-based tutorial:
+
+build a house
+
+stack objects
+
+
+Unlock system:
+
+new blocks
+
+colors
+
+
+Visual feedback:
+
+particles
+
+sound reactions
+
+
+Zen / Kids mode
+
+
+Platform
+
+Google Play (Android)
+
+Offline-first
+
+No accounts required
+
+
+✅ Success Metric (MVP):
+
+Player builds something within first 60 seconds
+
+Stays engaged for 5+ minutes
+
+Child understands the goal without reading text
+
+
+
+---
+
+⭐ PHASE 2 — PRO (Creation Tools & Monetization)
+
+Cel: Dać moc tworzenia i zapewnić finansowanie projektu.
+
+⏱️ +3–6 miesięcy
+
+Advanced Building
+
+More block types:
+
+mechanical joints
+
+hinges
+
+engines
+
+
+Functional builds:
+
+gliders
+
+simple vehicles
+
+
+Blueprint system:
+
+save & load creations
+
+
+
+AI Generation (Expanded)
+
+Prompt-based object generation
+
+“small house”
+
+“wooden bridge”
+
+
+Terrain shaping tools
+
+AI refinement:
+
+“make it bigger”
+
+“add windows”
+
+
+
+Pro Mode (Optional Subscription)
+
+Larger worlds
+
+Advanced AI tools
+
+More blocks & materials
+
+Higher build limits
+
+
+UX / Retention
+
+Progression map
+
+Achievements
+
+Visual customization (skins, themes)
+
+
+Platform
+
+Accounts (Google / Email)
+
+Cloud save (Pro only)
+
+
+✅ Success Metric (PRO):
+
+Users return multiple days
+
+Players save and reuse builds
+
+Pro mode converts without being forced
+
+
+
+---
+
+🌍 PHASE 3 — MULTIPLAYER AI (The Big Leap)
+
+Cel: Zamienić grę w żyjący, wspólny świat.
+
+⏱️ +6–12 miesięcy
+
+Multiplayer Core
+
+Shared worlds (small instances)
+
+Real-time building with others
+
+Invite friends / join public worlds
+
+Presence system (avatars)
+
+
+AI in Real Time
+
+AI-generated worlds from prompts
+
+World evolution based on player actions
+
+AI-assisted challenges:
+
+“build a flying machine together”
+
+
+Integration with AI world engines (e.g. Genie-style systems)
+
+
+Social Features
+
+Text / voice chat (optional)
+
+Emotes / reactions
+
+Safe zones & moderation tools
+
+
+Economy
+
+Shared resources
+
+Points-based progression
+
+Marketplace (blueprints, cosmetics)
+
+
+Pro+ (Advanced Tier)
+
+Persistent worlds
+
+Higher AI compute limits
+
+Larger multiplayer sessions
+
+
+Platform Expansion
+
+Steam (PC)
+
+Cross-platform play
+
+Dedicated servers
+
+
+✅ Success Metric (MULTIPLAYER AI):
+
+Players create worlds together
+
+Sessions last 30+ minutes
+
+Community starts forming organically
+
+
+
+---
+
+🔧 TECH STACK (Suggested)
+
+Engine: Unity / Unreal (Unity easier for mobile MVP)
+
+Backend: PlayFab / Firebase → Dedicated servers later
+
+AI:
+
+Phase 1: Rule-based + prompts
+
+Phase 2: API-based generation
+
+Phase 3: Real-time world models
+
+
+Multiplayer:
+
+Phase 3 start: small instanced sessions
+
+Later: scalable servers
+
+
+
+
+---
+
+🧠 FINAL NOTE (Important)
+
+This roadmap is realistic and investor-safe because:
+
+MVP proves fun
+
+Pro proves sustainability
+
+Multiplayer AI proves vision
+
+
+You are not building a game first.
+You are building a platform that becomes a game.
