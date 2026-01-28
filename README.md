@@ -808,3 +808,16 @@ Editor-Safe AI Constraints – preserves geometry, pivots, camera, and scene lay
 — Sebastian Laskowski Terraforming Planet 
 
 --- 
+**ciekawy pomysł na gre wirtualnym swiecie budownictwa**
+w odpowiedzi na kom Investender
+Wielkie dzięki za otwartość i poświęcony czas – naprawdę cieszę się, że moje uwagi okazały się pomocne i trafiają w kierunek rozwoju gry. 🔥
+Mam też mały pomysł, który być może mógłby być interesujący na dalsze etapy rozwoju. Wyobrażam sobie multi-grę 3D, w której gracze mogliby tworzyć własne światy w czasie rzeczywistym, korzystając z AI do generowania konstrukcji i obiektów. Na przykład: dziecko mogłoby powiedzieć, że chce budować domek z klocków o różnych kształtach, a następnie z innymi graczami online mogłoby go zbudować w świecie gry. Dodatkowo można wprowadzić proste wyzwania i zadania – np. samodzielne złożenie motolotni albo możliwość pominąć je za punkty.
+Opcja ta mogłaby być dostępna w specjalnej zakładce „Pro”, z możliwością subskrypcji w czasie rzeczywistym, co mogłoby pokryć koszty działania systemu i wprowadzić niewielką prowizję dla twórców.
+Technicznie można to zrealizować np. za pomocą Google Genie 3 (preview/early access) – silnika do generowania światów w czasie rzeczywistym z promptów:
+https://genie3.world
+https://deepmind.google/blog/genie-3-a-new-frontier-for-world-models/?utm_source=chatgpt.com
+Integracja mogłaby działać podobnie jak przy użyciu API do generatora obrazów (tak jak zrobiłem w projekcie OpenAI do generowania własnych światów i obrazów). Przykład pokazujący sposób realizacji aplikacji na podobnych fundamentach:
+https://github.com/Terraforming-Planet/Graphic-gen-Terrain-Formation-Planet-Fotowoltaic-Vehicles
+Takie podejście pozwoliłoby graczom spotykać się w czasie rzeczywistym, tworzyć razem, podejmować wyzwania i budować własne światy. Osobiście zagrałbym w coś takiego – i choć mogę ogarnąć cały interfejs i mechaniki, to wprowadzenie strefy online z innymi graczami wymagałoby wsparcia bardziej doświadczonych w backendzie multiplayer.
+Jeśli chciałbyś, mogę w przyszłości podzielić się bardziej szczegółowymi wskazówkami, jak połączyć Twoją grę z API Google Genie 3, aby uzyskać takie doświadczenie w czasie rzeczywistym.
+Jeszcze raz dzięki za poświęcony czas i otwartość – naprawdę widać, że Twój projekt żyje i rozwija się w ciekawym kierunku! 🚀
