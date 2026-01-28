@@ -808,16 +808,26 @@ Editor-Safe AI Constraints – preserves geometry, pivots, camera, and scene lay
 — Sebastian Laskowski Terraforming Planet 
 
 --- 
-**ciekawy pomysł na gre wirtualnym swiecie budownictwa**
-w odpowiedzi na kom Investender
-Wielkie dzięki za otwartość i poświęcony czas – naprawdę cieszę się, że moje uwagi okazały się pomocne i trafiają w kierunek rozwoju gry. 🔥
-Mam też mały pomysł, który być może mógłby być interesujący na dalsze etapy rozwoju. Wyobrażam sobie multi-grę 3D, w której gracze mogliby tworzyć własne światy w czasie rzeczywistym, korzystając z AI do generowania konstrukcji i obiektów. Na przykład: dziecko mogłoby powiedzieć, że chce budować domek z klocków o różnych kształtach, a następnie z innymi graczami online mogłoby go zbudować w świecie gry. Dodatkowo można wprowadzić proste wyzwania i zadania – np. samodzielne złożenie motolotni albo możliwość pominąć je za punkty.
-Opcja ta mogłaby być dostępna w specjalnej zakładce „Pro”, z możliwością subskrypcji w czasie rzeczywistym, co mogłoby pokryć koszty działania systemu i wprowadzić niewielką prowizję dla twórców.
-Technicznie można to zrealizować np. za pomocą Google Genie 3 (preview/early access) – silnika do generowania światów w czasie rzeczywistym z promptów:
-https://genie3.world
-https://deepmind.google/blog/genie-3-a-new-frontier-for-world-models/?utm_source=chatgpt.com
-Integracja mogłaby działać podobnie jak przy użyciu API do generatora obrazów (tak jak zrobiłem w projekcie OpenAI do generowania własnych światów i obrazów). Przykład pokazujący sposób realizacji aplikacji na podobnych fundamentach:
-https://github.com/Terraforming-Planet/Graphic-gen-Terrain-Formation-Planet-Fotowoltaic-Vehicles
-Takie podejście pozwoliłoby graczom spotykać się w czasie rzeczywistym, tworzyć razem, podejmować wyzwania i budować własne światy. Osobiście zagrałbym w coś takiego – i choć mogę ogarnąć cały interfejs i mechaniki, to wprowadzenie strefy online z innymi graczami wymagałoby wsparcia bardziej doświadczonych w backendzie multiplayer.
-Jeśli chciałbyś, mogę w przyszłości podzielić się bardziej szczegółowymi wskazówkami, jak połączyć Twoją grę z API Google Genie 3, aby uzyskać takie doświadczenie w czasie rzeczywistym.
-Jeszcze raz dzięki za poświęcony czas i otwartość – naprawdę widać, że Twój projekt żyje i rozwija się w ciekawym kierunku! 🚀
+# 🌐✨ A Bold Idea for a Real-Time Virtual World of Creation & Construction  
+### 🧠🤖 AI-Driven Multiplayer Building • Live World Generation • Shared Creativity
+
+> A next-generation concept for a 3D multiplayer game where players create, build, and shape virtual worlds together **in real time**, powered by AI — turning imagination into living environments.
+> 
+Thank you very much for your openness and for taking the time — I’m really glad that my feedback turned out to be helpful and aligns with the direction in which the game is developing. 🔥
+
+I also have a small idea that might be interesting for later stages of development. I imagine a 3D multiplayer game in which players could create their own worlds in real time, using AI to generate structures and objects. For example, a child could say that they want to build a small house from blocks of different shapes, and then build it together with other players online inside the game world. Additionally, simple challenges and tasks could be introduced — for instance, assembling a powered hang glider on your own, or skipping such tasks in exchange for points.
+
+This option could be available in a dedicated “Pro” section, with a real-time subscription model, which could help cover system operating costs and introduce a small commission for the creators.
+
+From a technical perspective, this could be implemented using Google Genie 3 (preview/early access) — a real-time world-generation engine driven by prompts:
+[https://genie3.world](https://genie3.world)
+[https://deepmind.google/blog/genie-3-a-new-frontier-for-world-models/?utm_source=chatgpt.com](https://deepmind.google/blog/genie-3-a-new-frontier-for-world-models/?utm_source=chatgpt.com)
+
+The integration could work similarly to using an API for an image generator (as I did in an OpenAI-based project for generating custom worlds and images). An example showing how an application can be built on similar foundations:
+[https://github.com/Terraforming-Planet/Graphic-gen-Terrain-Formation-Planet-Fotowoltaic-Vehicles](https://github.com/Terraforming-Planet/Graphic-gen-Terrain-Formation-Planet-Fotowoltaic-Vehicles)
+
+This approach would allow players to meet in real time, create together, take on challenges, and build their own worlds. Personally, I would definitely play something like this — and while I can handle the entire interface and gameplay mechanics, implementing an online multiplayer zone with other players would require support from someone more experienced in multiplayer backend systems.
+
+If you’d like, I can share more detailed guidance in the future on how to connect your game with the Google Genie 3 API to achieve this kind of real-time experience.
+
+Once again, thank you for your time and openness — it’s really clear that your project is alive and evolving in an exciting direction! 🚀
